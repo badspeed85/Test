@@ -1,2 +1,1 @@
-test_02
-aabb
+test_01.c
